@@ -1,0 +1,17 @@
+       Error Diagnostics for Analysis/Assembly Failure
+
+  All position constraints can't be simultaneously satisfied. 
+The following position constraints can't be satisfied:
+
+
+1) Upper limit of the first translation axis in connection Connection_1 in model
+ASMJOEDELL (component id path [40,40]) can't be satisfied.
+
+
+2) Upper limit of the first translation axis in connection Connection_2 in model
+ASMJOEDELL (component id path [40,40]) can't be satisfied.
+
+
+3) The following kinematic loop can't be closed: Ground - body1 - Ground.
+
+

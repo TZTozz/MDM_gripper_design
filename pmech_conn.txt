@@ -12,14 +12,26 @@ ASMJOEDELL (component id path [40,40]) can't be satisfied.
 ASMJOEDELL (component id path [40,40]) can't be satisfied.
 
 
-3) The following kinematic loop can't be closed: Ground - body1 - body8 - body11
+3) The following kinematic loop can't be closed: Ground - body15 - body8 -
+body11 - body10 - Ground.
+
+
+4) The following kinematic loop can't be closed: Ground - body15 - body9 -
+body14 - Ground.
+
+
+5) The following kinematic loop can't be closed: Ground - body15 - body9 -
+body10 - Ground.
+
+
+6) The following kinematic loop can't be closed: Ground - body14 - body2 - body5
 - Ground.
 
 
-4) The following kinematic loop can't be closed: Ground - body1 - body8 - body2
-- Ground.
+7) The following kinematic loop can't be closed: Ground - body14 - Ground.
 
 
-5) The following kinematic loop can't be closed: Ground - body2 - Ground.
+8) The following kinematic loop can't be closed: Ground - body14 - body5 -
+Ground.
 
 
